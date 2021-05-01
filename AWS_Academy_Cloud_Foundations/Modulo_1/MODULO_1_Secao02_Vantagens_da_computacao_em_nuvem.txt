@@ -1,0 +1,35 @@
+| MODULO 1 - Seção 2: Vantagens da computação em nuvem
+
+|| 1º - Troque despesas de capital por despesas variáveis
+
+. Capital
+    . Investimento em datacenter com base em previsões;
+
+. Variáveis
+    . Pague somente pelo que consumir
+
+|| 2º - Grande economia de escala
+
+. Devido oa uso agregado de todos os clientes, a AWS pode proporcionar grande economia de escala e repassar os descontos para os clientes.
+
+|| 3º - Pare de tentar adivinhar a capacidade
+
+. Evitar estimar as capacidade de servidores (superestimada, subestimada)
+
+. Escalabilidade sob demanda
+
+|| 4º - Aumentar a velocidade e a agilidade
+
+. Evitar semanas para obter os recursos desejados
+
+. Minutos para obter os recursos desejados
+
+|| 5º - Pare de gastar dinheiro com a operação e manuntenção de datacenters
+
+. Evitar "investir" em Folha de pagamento, Utilitários, Manuntenção, Ambientação, Hardware
+
+. Invista em seus negócios e clientes
+
+|| 6º - Tenha alcance global em Minutos
+
+. É possivel implantar facilmente apps em várias regiões da AWS em todo o mundo, com pouca latencia.

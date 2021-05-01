@@ -1,0 +1,36 @@
+| MODULO 1 - Seção 1: Introducao a computacao em nuvem
+
+|| Computação em Nuvem
+
+É a entrega sob demanda de poder computacional, banco de dados, armazenamento, aplicativos e outros recursos de TI pela Internet com uma definição de preço conforme o uso.
+
+Permite que você deixe de pensar em sua infraestrutura como hardware e passe a pensar nela (e usá-la) como software.
+
+|| Modelo de computação tradicional
+
+. Infraestrutura como hardware
+. Soluções de hardware:
+    . Exigem espaço, equipe, segurança física, planejamento, desepesasa de capital;
+    . Têm um ciclo longo de aquisição de hardware;
+    . Exigem provisionamento de capacidade por meio da tentaiva de adivinhar os picos máximos teóricos;
+
+|| Modelo de computação em Nuvem
+
+. Infraestrutura cmo software
+. Soluçãio de software:
+    . São flexíveis;
+    . Podem mudar com mais rapidez, facilidad e economia do que as soluções de hardware;
+    . Eliminam as tarefas monolíticas de trabalho pesado;
+
+. Tipos de modelo em Nuvem
+    . IaaS (Infraestrutura como serviço);
+    . PaaS (Plataforma como serviço);
+    . SaaS (Software como serviço);
+
+    . IaaS -> PaaS -> SaaS 
+    (Mais controle sobre os recursos de TI -> Menos controle sobre os recursos de TI)
+
+. Tipos de modelos de implantação de computação em Nuvem
+    . Nuvem
+    . Híbrida
+    . No local (nuvem privada)

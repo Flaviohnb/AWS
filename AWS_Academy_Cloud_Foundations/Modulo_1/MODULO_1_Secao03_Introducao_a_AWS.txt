@@ -1,0 +1,57 @@
+| MODULO 1 - Seção 3: Introdução à Amazon Web Services (AWS)
+
+|| O que são serviços web?
+
+. Um serviço web é qualquer software disponibilizado pela internet que usa um formato padronizado, como (XML) ou (JSON), para a solicitação e resposta de uma interação de (API).
+
+|| O que é a AWS?
+
+. É uma plataforma de nuvm segura que oferece um amplo conjunto de produtos globais baseados na nuvem;
+. Oferece acesso sob demanda a recursos de computação, armazenamento, rede, banco de dados e outros recursos de TI e ferramentas de gerenciamento;
+. Oferece flexibilidade;
+. Você paga apenas pelos serviços individuais de que precisa, pelo tempo que os utilizar;
+. Os serviçoes da AWS funcionam juntos como componentes básicos;
+
+|| Categorias de serviços da AWS:
+
+. Análise;
+. Integração de aplicativos;
+. Realidade aumentada e realidade virtual;
+. Blockchain;
+. Aplicativos empresariais;
+. Computação;
+. Gerenciamento de custos;
+. Envolvimento e clientes;
+. Banco de dados;
+. Ferramentas de desenvolvedor;
+. Computação de usuário final;
+. Tecnologia de jogos;
+. Internet das Coisas;
+. Machine Learning;
+. Gerenciamento e governança;
+. Serviçoes de mídia;
+. Migração e tranferência;
+. Dispositivos móveis;
+. Redes e entrega de conteúdo;
+. Robótica;
+. Satélite;
+. Segurança, identidade e conformidade;
+. Armazenamento;
+
+|| Escolhendo um serviço
+
+. O serviço selecionado depende dos seus obbjetivos empresariais e requisitos de tecnologia.
+
+|| Três maneiras de integarir com a AWS
+
+. Console de gerenciamento da AWS
+    .Interface gráfica fácil de usar;
+
+. Interface da linha de comando (CLI da AWS)
+    . Acesso a serviçoes por comandos ou scripts específicos;
+
+. Kits de desenvolvimento de software (SDKs)
+    . Acesse serviçoes diretamente do seu código (como Java, Python e outros);
+
+|| 
+

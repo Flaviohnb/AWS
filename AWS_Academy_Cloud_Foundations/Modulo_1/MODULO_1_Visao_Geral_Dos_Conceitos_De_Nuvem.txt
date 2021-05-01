@@ -1,0 +1,17 @@
+| MODULO 1 - Visão geral dos conceitos de nuvem
+
+|| Exemplo de pergunta para certificação:
+
+Por que a "AWS é mais economica do que datacenters tradicionais" para aplicativos com cargas de trabalho de computação "variáveis"?
+
+A. Os custos do Amazon Elastic Compute Cloud (Amazon EC2) são cobrados mensalmente.
+
+B. Os clientes mantêm o acesso administrativo completo às suas instâncias do Amazon EC2.
+
+C. As instâncias do Amazon EC2 podem ser executadas sob demanda quando necessário.
+
+D. Os cliente podem executar permanentemente instâncias suficientes para lidar com picos de carga de trabalho.
+
+|||| Resposta C
+
+

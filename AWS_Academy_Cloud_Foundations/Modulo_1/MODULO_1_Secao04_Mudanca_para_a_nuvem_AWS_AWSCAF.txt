@@ -1,0 +1,40 @@
+| MODULO 1 - Seção 4: Mudança para a Nuvem AWS - AWS Cloud Adoption Framework (AWS CAF)
+
+|| AWS Cloud Adoption Framework (AWS CAF)
+
+. Oferece orientação e melhores práticas para ajudar as organizações a criar uma abordagem abrangeente para a computação em nuvem em toda a organização e durante todo o ciclo de vida de TI para acelerar adoção bem-sucedida da nuvem;
+
+. O AWS CAF está organizado em seis perspectivas;
+. As perspectivas consistem em conjuntos de recursos;
+
+    Foco nos recursos empresariais:
+    . Negócios (Finanças de TI, Estratégia de TI, Realização de benefícios, Gerenciamento de riscos empresariais);
+    . Pessoas (Gerenciamento de recursos, incentivos, carreiras, treinamento, mudança organizacional);
+    . Governança (Gerenciamento de portifólio, programas e projetos, licenças, medição de desempenho empresarial);
+
+    Foco nos recursos técnicos:
+    . Plataforma (Provisionamento de computação, de rede, de armazenamento, de banco de dados, arquitetura de sistemas e soluções, desenvolvimento de aplicativos);
+    . Segurança (Gerenciamento de identidade e estado, Controle detectivo, Segurança de infraestrutura, Proteção de dados, Resposta e incidentes);
+    . Operações (MOnitoramento de serviços, da performance do aplicativo, gerenciamento do inventário de recursos, de versões/alterações, Relatórios e análises, Continuidade dos negócios/ Recuperação de dessastres, Catálogo de serviços de TI);
+
+. Perspectiva empresarial -> É necessário garantir que a TI esteja alinhada com as necessidades empresariais e que os investimentos em TI possam ser relacionados a resultados comerciais demonstráveis;
+    . Stakeholders (Gerente de negócios, gerente financeiros, proprietários de orçamento e partes interesadas da estratégia);
+
+. Perspectiva das pessoas -> É necessário priorizar o treinamento, a equipe e as mudanças organizacionais para criar uma organização ágil;
+    . Stakeholders (Recursos humanos, equipe e gerentes de pessoas);
+
+. Perspectiva da governança -> É necessário garantir que as habilidades e os processos alinhem a estratégia e as metas de TI com a estratégia e as metas empresariais para quer a organização possa maximizar o valor empresarial de seu investmento em TI e minimizar os riscos empresarias;
+    . Stakeholders (CIO, gerentes de programas, arquitetos empresarias, analistas de negócios e gerentes de potifólio);
+
+. Perspectiva da plataforma -> É necessário compreender e comunicar a natureza dos sistemas de TI e seus relacionamentos. Devemos ter a capacidade de descrever a arquitetura do ambiente de estado de destino em detalhes.
+    . Stakeholders (CTO, gerente de TI, arquitetos de soluções);
+
+. Perspectiva de Segurança -> É necessário arantir que a organização atenda aos seus objetivos de segurança.
+    . Stakeholders (CISO, gerentes de segurança de TI e analistas de segurança de TI);
+
+. Perspectiva de operações -> Alinhamos e apoiamos as operações da empresa e definimos como os negócios serão conduzidos a cada dia, trimestre e ano.
+    . Stakeholders (Gerentes de operações de TI e gerentes de suporte de TI);
+
+
+
+
