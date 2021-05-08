@@ -2,7 +2,7 @@
 
 - Amazon EBS
     - Disponibiliza volumes de armazenamento persistente em blocos para uso com instâncias do Amazon EC2. Armazenamento persistente é qualquer dispositivo de armazenamento físico de dados que retém dados após a alimentação desse dispositivo ser desligada. Ele também é chamado de armazenamento não volátil
-    - Cada volume do Amazon EBS é replicado automaticamente dentro da sua zona de disponibilidade para proteger você contra falhas de componente. Ele foi projetado para oferecer alta disponibilidade e durabilidade. Os volumes do Amazon EBS oferecem a performance consistente e de baixa latência necessárioa para executar suas cargar de trabalho. 
+    - Cada volume do Amazon EBS é replicado automaticamente dentro da sua zona de disponibilidade para proteger você contra falhas de componente. Ele foi projetado para oferecer alta disponibilidade e durabilidade. Os volumes do Amazon EBS oferecem a performance consistente e de baixa latência necessário para executar suas cargar de trabalho. 
     - Você pode ajustar a escala do seu uso em poucos minitos, pagando um preço baixo apenas pelo que você provisiona.
 
 ## Opções de armazenamento da AWS: armazenamento em bloco vesus armazenamento de objetos

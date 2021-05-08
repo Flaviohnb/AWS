@@ -1,6 +1,4 @@
-## Exemplo de pergunta do exame
-
-- Qual serviço da AWS ajuda `os desenvolvedores a implantar rapidamente recursos` que podem usar `diferentes linguagens de programação`, como .NET e Java?
+## Exemplo de pergunta do exame - Qual serviço da AWS ajuda `os desenvolvedores a implantar rapidamente recursos` que podem usar `diferentes linguagens de programação`, como .NET e Java?
 
 - A. AWS CloudFormation
 - B. AWS SQS
