@@ -6,7 +6,7 @@
 
 - Data warehouse pode levar meses e recursos financeiros significativos para ser configurado. 
 - O Amazon Redshift é um data warehouse rápido e totalmente gerenciado que é simples e econômico de configurar, usar e escalar.
-- O serviço permite executar consultas complexas de análise em petabytes de dados estruturados, usando otimização de consultas sifisticadas, armazenamento colunar e mdisco locais de alta performance e execução paralela massiva.
+- O serviço permite executar consultas complexas de análise em petabytes de dados estruturados, usando otimização de consultas sifisticadas, armazenamento colunar em disco locais de alta performance e execução paralela massiva.
 - A maioria dos resultados é disponibilizado em alguns segundos.
 
 ## Arquitetura de processamento paralelo
